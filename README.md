@@ -10,7 +10,7 @@ The port number is 5001 which can be accessed from 127.0.0.1:port_number
 5001 in this case so it'll be :
 127.0.0.1:5001
 
-The flask app is being built Perform CRUD operations 
+The flask app is being built to Perform CRUD operations 
 And the same can be verified using postman
 
 The commands for performing CRUD operations on the database are
