@@ -1,7 +1,7 @@
 # GDT1
 This Task involve Dockerizing a Flask app which will help performing CRUD Operations upon the DataBase file which is being hosted at MongoDB's Atlas server.
 
-Use the initial_code.py to upload the JSON file which was being given to the mongo server.
+Use the initial code.py to upload the JSON file which was being given to the mongo server.
 GDuser indicate the username and password of the database. 
 
 Then install docker on a system and run the dockerfile to build the image.
