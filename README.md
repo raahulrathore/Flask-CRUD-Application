@@ -1,4 +1,4 @@
-# Flask-CRUD
+# Flask-CRUD-Application
 This Task involve Dockerizing a Flask app which will help performing CRUD Operations upon the DataBase file which is being hosted at MongoDB's Atlas server.
 
 Use the initial code.py to upload the JSON file which was being given to the mongo server.
